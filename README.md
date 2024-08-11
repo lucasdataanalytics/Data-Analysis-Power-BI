@@ -5,7 +5,7 @@ Portfólio de Análise de Dados utilizando o PowerBI, DAX, SQL e Excel.
 
 # Projeto Dashboard Financeiro
 
-#### Projeto de Análise de Vendas | [Clique aqui para acessar o projeto](https://app.powerbi.com/links/cXRW1iDGji?ctid=f310b526-e195-4805-a55e-67e28f2fefdb&pbi_source=linkShare&bookmarkGuid=c12ddd61-dd8b-4ab5-aa10-55bea0730cd2)
+#### Projeto de Análise de Vendas | [Clique aqui para acessar o projeto](https://app.powerbi.com/reportEmbed?reportId=1fc9ae11-f810-42de-8efc-21ba69fe15d7&autoAuth=true&ctid=f310b526-e195-4805-a55e-67e28f2fefdb)
 
 ![Print DashBoard](https://github.com/user-attachments/assets/1144d9e0-df2f-42cc-a7f5-58660bc1696c)
 
