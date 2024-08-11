@@ -7,7 +7,7 @@ Portfólio de Análise de Dados utilizando o PowerBI, DAX, SQL e Excel.
 
 #### Projeto de Análise de Vendas | [Clique aqui para acessar o projeto](https://app.powerbi.com/groups/me/reports/1fc9ae11-f810-42de-8efc-21ba69fe15d7/3ca6930c024c5557421a?experience=power-bi)
 
-[![Dashboard](https://photos.fife.usercontent.google.com/pw/AP1GczMeXAT4zlGDSo7HwNT7iMflAQwamAKIHnnhZnSGSLw9TE5FLxLdG_lm=w1002-h556-no?authuser=0)]
+![Print DashBoard](https://github.com/user-attachments/assets/1144d9e0-df2f-42cc-a7f5-58660bc1696c)
 
 Este dashboard foi desenvolvido para fornecer uma visão geral do desempenho financeiro de uma empresa ao longo do tempo, utilizando indicadores-chave e visualizações interativas.
 
