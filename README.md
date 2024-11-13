@@ -34,6 +34,3 @@ Este dashboard foi desenvolvido para fornecer uma visão geral do desempenho fin
 
 Em andamento
 
-# Projeto Dashboard Recursos Humanos (RH)
-
-Em andamento
